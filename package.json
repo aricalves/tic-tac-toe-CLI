@@ -1,0 +1,23 @@
+{
+  "name": "tic-tac-toe-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aricalves/tic-tac-toe-CLI.git"
+  },
+  "author": "Aric Alves aric.alves2012@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aricalves/tic-tac-toe-CLI/issues"
+  },
+  "homepage": "https://github.com/aricalves/tic-tac-toe-CLI#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.1.0"
+  }
+}
